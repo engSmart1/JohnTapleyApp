@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">John Tapley App</string>
+    <string name="greeting_message">Hello World! this is me \nwill i can do that!</string>
+    <string name="player1_name">Player1</string>
+    <string name="player2_name">Player2</string>
+    <string name="btn_txt_punch">Punch</string>
+    <string name="btn_text_kick">Kick</string>
+    <string name="player_one_image">image of player ones face</string>
+    <string name="player_two_image">image of player two\'s face</string>
+    <string name="player_two_health">Health ply2</string>
+    <string name="player_one_health">Health ply1</string>
+
+    <!-- Menu -->
+    <string name="action_menu">Menu</string>
+</resources>
